@@ -3,7 +3,7 @@ koa2-cassandra-boilerplate
 
 ![MIT](https://img.shields.io/npm/l/express.svg) ![node version](https://img.shields.io/badge/node-v6.3.0-green.svg) [![docker build](https://img.shields.io/docker/automated/superalsrk/koa2-boilerplate.svg)](https://hub.docker.com/r/superalsrk/koa2-boilerplate/builds/)
 
-A boilerplate application for building web apps using koa2, cassandra and passport.
+A boilerplate application for building web apps using koa2, cassandra and passport, react and redux.
 
 ### Features
 
