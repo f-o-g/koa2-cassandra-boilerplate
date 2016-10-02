@@ -5,7 +5,6 @@ koa2-cassandra-boilerplate
 
 A boilerplate application for building web apps using koa2, cassandra and passport.
 
-
 ### Features
 
 - **Local Authentication** using passport
